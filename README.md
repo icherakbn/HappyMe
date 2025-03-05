@@ -1,6 +1,7 @@
 HappyMe est un assistant qui aide à prévenir les effets négatifs du temps d’écran excessif (comme la fatigue oculaire, le stress ou la dépression). L'application encourage les bonnes habitudes numériques en suivant l'évolution du bien-être numérique et en proposant des conseils adaptés.
- Fonctionnalités principales
-Personnalisation du profil 👤
+
+##Fonctionnalités principales:
+#Personnalisation du profil 👤
 
 L'utilisateur peut créer un profil avec son nom, âge, sexe et photo.
 L'application enregistre l'anniversaire et d'autres informations dans un fichier CSV.
